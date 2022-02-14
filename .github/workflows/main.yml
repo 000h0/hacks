@@ -6,7 +6,7 @@ jobs:
 
 build:
 
-name: kapten_crypto runs-on: windows-latest flag: [A, B, C, D, E, F, G, H, I]
+name: kapten_crypto runs-on: windows-latest
 
 strategy:
 
