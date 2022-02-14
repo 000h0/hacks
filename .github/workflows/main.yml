@@ -6,7 +6,8 @@ jobs:
 
 build:
 
-name: kapten_crypto runs-on: windows-latest
+name: kapten_crypto
+runs-on: windows-latest
 
 strategy:
 
