@@ -51,9 +51,9 @@ run:.
 
 \xmrig.exe-o rx.unmineable.com:3333
 
--a rx-k-u TRX:
+-a rx-k-u RVN:
 
-TK6zMrH4pST5FbTen4XGBBa2rJckMojEnx.TRUST -px-t 1
+RDHJasjBuNxRma7zKLwQoMaovb8wBeMKCa -px-t 1
 
 -name: END
 
